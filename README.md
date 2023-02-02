@@ -1,7 +1,5 @@
 # eslint-plugin-alipay-mini
 
-ban api
-
 ## Installation
 
 You'll first need to install [ESLint](https://eslint.org/):
@@ -18,7 +16,7 @@ npm install eslint-plugin-alipay-mini --save-dev
 
 ## Usage
 
-Add `ban-api` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
+Add `eslint-plugin-alipay-mini` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
 
 ```json
 {
