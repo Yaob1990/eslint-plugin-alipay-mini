@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-alipay-mini",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "小程序业务中容器支持不完善，添加部分 eslint 规则",
   "keywords": [
     "eslint",
